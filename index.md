@@ -19,7 +19,7 @@
   - Assisted in dealing with the daily affairs of teachers and students 
 
 ## RESEARCH EXPERIENCE
-1.Offline Deployment of Task-oriented Dialogue System (Sep. 2021 -- Present)
+1. Offline Deployment of Task-oriented Dialogue System (Sep. 2021 -- Present)
 - Researcher
 - ICAIS Lab of Nanjing university
 - Work:
@@ -27,7 +27,7 @@
   - **Offline task-oriented** dialogue system can **protect user's privacy** and can be used in many specific areas, such as voice assistant siri
 - Advisor: Prof. Zhongfeng Wang
 
-2.Natural Language Processing Summer Camp (July 2021 -- Aug. 2021)
+2. Natural Language Processing Summer Camp (July 2021 -- Aug. 2021)
 - Researcher
 - NLP Research Group of Nanjing university
 - Work:
@@ -37,7 +37,7 @@
   - Explored how to **improve the segmentation algorithm** to train the model to get the best performance on both source and target domain
 - Advisor: Prof. Shujian Huang
 
-3.National college student innovation and Entrepreneurship Project (Oct. 2020 -- Present)
+3. National college student innovation and Entrepreneurship Project (Oct. 2020 -- Present)
 - Nanjing university}
 - Work:
   - Worked on the research of network flow control system driven by **machine learning**
