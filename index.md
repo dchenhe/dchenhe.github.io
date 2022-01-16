@@ -16,7 +16,8 @@
 - Assistant
 - Nanjing University
 - Work: 
-  - Assisted in dealing with the daily affairs of teachers and students
+  - Assisted in dealing with the daily affairs of teachers and students 
+
 ## RESEARCH EXPERIENCE
 1.Offline Deployment of Task-oriented Dialogue System (Sep. 2021 -- Present)
 - Researcher
