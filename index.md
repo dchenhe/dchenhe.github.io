@@ -1,5 +1,5 @@
 # Dongchen He
-- contact: dc.he@smail.nju.edu.cn 
+- Contact: dc.he@smail.nju.edu.cn 
 - I am a junior majoring in Communication Engineering in Nanjing University, expected to graduate in 2023 and aiming for a PhD position for 2023 Fall.
 
 
