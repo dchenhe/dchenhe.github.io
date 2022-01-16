@@ -66,7 +66,7 @@
 ## SKILLS
 - Progamming Languages: Proficient in Python, C/C++, SQL
 - Tools: Fairseq, Pytorch, GitHub
-- Basic knowledge: Machine learning, Deep learning, NLP(seq2seq, lstm, transformer, BERT，BART))
+- Basic knowledge: Machine learning, Deep learning, NLP(seq2seq, lstm, transformer, BERT, BART, GPT)
 
 ## HOBBIES
 - Instruments: I like piano and guitar very much. Actually music has been part of my life. And i'm also very curious about some technologies like AI composer which combines music with artificial intelligence.
