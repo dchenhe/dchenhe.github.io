@@ -1,6 +1,6 @@
-# Dongchen HE
-contact:dc.he@smail.nju.edu.cn
-## Campus Experience
+## CONTACT
+dc.he@smail.nju.edu.cn
+## CAMPUS EXPERIENCE
 1. Youth Volunteer Association (Aug. 2020 -- Aug. 2021)
 - President
 - Nanjing University
@@ -14,7 +14,7 @@ contact:dc.he@smail.nju.edu.cn
 - Nanjing University
 - Work: 
   - Assisted in dealing with the daily affairs of teachers and students
-## Research Experience
+## RESEARCH EXPERIENCE
 1.Offline Deployment of Task-oriented Dialogue System (Sep. 2021 -- Present)
 - Researcher
 - ICAIS Lab of Nanjing university
@@ -41,14 +41,14 @@ contact:dc.he@smail.nju.edu.cn
   - The project was identified as a national project and supported by funds
 - Advisor: Prof. Jian Wang
 
-## Achievements
+## ACHIEVEMENTS
 - The second prize of Jiangsu Province in the National College Students' Electronic Design Competition (Nov. 2021)
 - National Encouragement Scholarship of 2021 (Oct. 2021)
 - People's Scholarship (Sep. 2020)
 - National Encouragement Scholarship of 2020 (Oct. 2020)
 - Tang Zhongying Scholarship (Nov. 2020) 
 
-## Education
+## EDUCATION
 - Nanjing University (Sep. 2019 -- Present)
 - Major: Bachelor of Communication Engineering
 - Minor: Finance & Computer Science
@@ -56,12 +56,12 @@ contact:dc.he@smail.nju.edu.cn
 - RANKING: TOP15% 
 - Average score: 88/100
 
-## Skills
+## SKILLS
 - Progamming Languages: Proficient in Python, C/C++, SQL
 - Tools: Fairseq, Pytorch, GitHub
 - Basic knowledge: Machine learning, Deep learning, NLP(seq2seq, lstm, transformer, BERT，BART))
 
-## Hobbies
+## HOBBIES
 - Instruments: I like piano and guitar very much. Actually music has been part of my life. And i'm also very curious about some technologies like AI composer which combines music with artificial intelligence.
 - Musical: Hamilton,Dear Evan Hanson,Come from Away,Le rouge et le noir are some of my favorites.
 - Sports: running & swimming
