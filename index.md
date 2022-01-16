@@ -1,5 +1,8 @@
-## CONTACT
-dc.he@smail.nju.edu.cn
+# Dongchen He
+- contact: dc.he@smail.nju.edu.cn 
+- I am a junior majoring in Communication Engineering in Nanjing University, expected to graduate in 2023 and aiming for a PhD position for 2023 Fall.
+
+
 ## CAMPUS EXPERIENCE
 1. Youth Volunteer Association (Aug. 2020 -- Aug. 2021)
 - President
@@ -50,11 +53,14 @@ dc.he@smail.nju.edu.cn
 
 ## EDUCATION
 - Nanjing University (Sep. 2019 -- Present)
-- Major: Bachelor of Communication Engineering
-- Minor: Finance & Computer Science
-- GPA: 4.41/5.00
-- RANKING: TOP15% 
-- Average score: 88/100
+  - Major: Bachelor of Communication Engineering
+  - Minor: Finance & Computer Science
+  - GPA: 4.41/5.00
+  - RANKING: TOP15% 
+  - Average score: 88/100 
+
+- University of Sheffield (June 2021 -- July 2021) 
+  - exchange student
 
 ## SKILLS
 - Progamming Languages: Proficient in Python, C/C++, SQL
