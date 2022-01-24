@@ -57,7 +57,7 @@
   - Major: Bachelor of Communication Engineering
   - Minor: Finance & Computer Science
   - GPA: 4.41/5.00
-  - RANKING: TOP15% 
+  - RANKING: TOP10% 
   - Average score: 88/100 
 
 - University of Sheffield (June 2021 -- July 2021) 
