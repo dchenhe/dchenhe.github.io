@@ -38,7 +38,7 @@
 - Advisor: Prof. Shujian Huang
 
 3. National college student innovation and Entrepreneurship Project (Oct. 2020 -- Present)
-- Nanjing university}
+- Nanjing university
 - Work:
   - Worked on the research of network flow control system driven by **machine learning**
   - Used data of each network node to train model, so that the model can **automatically choose** the route with the least possibility of congestion
