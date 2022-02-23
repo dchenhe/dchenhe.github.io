@@ -56,9 +56,9 @@
 - Nanjing University (Sep. 2019 -- Present)
   - Major: Bachelor of Communication Engineering
   - Minor: Finance & Computer Science
-  - GPA: 4.41/5.00
-  - RANKING: TOP10% 
-  - Average score: 88/100 
+  - GPA: 4.33/5.00
+  - RANKING: TOP15% 
+  - Average score: 86.6/100 
 
 - University of Sheffield (June 2021 -- July 2021) 
   - exchange student
