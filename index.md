@@ -9,15 +9,15 @@ Mail: dc.he@smail.nju.edu.cn or
       dche@uranus-research.com
 
 # Biography
-- Dongchen HE is a junior majoring in Communication Engineering and Computer Science in Nanjing University, expected to graduate in 2023 and aiming for a Ph.D. position for 2023 Fall in NLP field.
+Dongchen HE is a junior majoring in Communication Engineering and Computer Science in Nanjing University, expected to graduate in 2023 and aiming for a Ph.D. position for 2023 Fall in NLP field.
 
 
 # Research Interests
-Deep Learning  
-Natural Language Processing 
-Dialogue Summarization 
-Information Retrival 
-Bioinformatics 
+- Deep Learning  
+- Natural Language Processing 
+- Dialogue Summarization 
+- Information Retrival 
+- Bioinformatics 
 
 # Publications
 [COLING-2022](https://coling2022.org/) View Dialogue in 2D: A Two-stream Model in Time-speaker Perspective for Dialogue Summarization and Beyond (under review)
