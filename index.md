@@ -19,9 +19,9 @@ Information Retrival
 Bioinformatics
 
 # Publications
-[COLING-2022](https://coling2022.org/) 
+[COLING-2022](https://coling2022.org/) View Dialogue in 2D: A Two-stream Model in Time-speaker Perspective for Dialogue Summarization and Beyond (under review)
 
-[NIPS-2022](https://nips.cc/) 
+[NIPS-2022](https://nips.cc/) PRIDE: A benchmark for structure-guided protein design evaluation
 
 # News  
 [June 2022] Joining Uranus Research as an intern working on quant research.  
