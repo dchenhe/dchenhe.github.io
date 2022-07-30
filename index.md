@@ -8,7 +8,7 @@ Mail: dc.he@smail.nju.edu.cn or
       dche@uranus-research.com
 
 # Biography
-- Dongchen HE is a junior majoring in Communication Engineering and Computer Science in Nanjing University, expected to graduate in 2023 and aiming for a PhD position for 2023 Fall in NLP field.
+- Dongchen HE is a junior majoring in Communication Engineering and Computer Science in Nanjing University, expected to graduate in 2023 and aiming for a Ph.D. position for 2023 Fall in NLP field.
 
 
 # Research Interests
