@@ -4,7 +4,7 @@ Undergraduate student (graduating 2023),
 [Nanjing University](https://www.nju.edu.cn/main.htm), China  
 
 [LinkedIn](https://www.linkedin.cn/incareer/in/dongchen-he-b0b1b5228)
-Mail: dc.he@smail.nju.edu.cn, or
+Mail: dc.he@smail.nju.edu.cn or
       dche@uranus-research.com
 
 # Biography
