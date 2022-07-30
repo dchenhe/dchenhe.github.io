@@ -3,7 +3,8 @@ Undergraduate student (graduating 2023),
 [Department of Electronic Science and Engineering](https://ese.nju.edu.cn/main.htm),  
 [Nanjing University](https://www.nju.edu.cn/main.htm), China  
 
-[LinkedIn](https://www.linkedin.cn/incareer/in/dongchen-he-b0b1b5228)
+[LinkedIn](https://www.linkedin.cn/incareer/in/dongchen-he-b0b1b5228) 
+
 Mail: dc.he@smail.nju.edu.cn or
       dche@uranus-research.com
 
@@ -13,10 +14,10 @@ Mail: dc.he@smail.nju.edu.cn or
 
 # Research Interests
 Deep Learning  
-Natural Language Processing
-Dialogue Summarization
-Information Retrival
-Bioinformatics
+Natural Language Processing 
+Dialogue Summarization 
+Information Retrival 
+Bioinformatics 
 
 # Publications
 [COLING-2022](https://coling2022.org/) View Dialogue in 2D: A Two-stream Model in Time-speaker Perspective for Dialogue Summarization and Beyond (under review)
