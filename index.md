@@ -31,7 +31,7 @@ Dongchen HE is a junior majoring in Communication Engineering and Computer Scien
 
 [May 2022] Our paper focusing on dataset of protein design has been submitted to [NIPS-2022](https://nips.cc/), waiting for good news.
 
-[Feb 2022] Joining AIH Lab in CUHK, working on RNA design and protein design using deep learning method under under supervision of [Prof. YU LI](https://liyu95.com/) and doctor candidate ZhiHang Hu.
+[Feb 2022] Joining AIH Lab in CUHK, working on RNA design and protein design using deep learning method under supervision of [Prof. YU LI](https://liyu95.com/) and doctor candidate ZhiHang Hu.
 
 [Oct 2021] Joining NLP research group in ICAIS Lab in Nanjing University, working on dialogue summarization.
 
