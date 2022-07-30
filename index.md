@@ -61,9 +61,9 @@ Team Leader, ICAIS Lab of Nanjing university
 - Offline task-oriented dialogue system can protect user's privacy and can be used in many specific areas, such as voice assistant siri.
 
 ## Professional Experience
-### Uranus Research, private funding in Shanghai
-June 2022 - Aug 2022  
-Quant researcher, Summer Intern  
+### Uranus Research, private funding in Shanghai, June 2022 - Aug 2022  
+Quant researcher, Summer Intern 
+- Worked on alpha factor by using volume and price data.
 
 # SKILLS
 Progamming Languages: Proficient in Python, C/C++, SQL
