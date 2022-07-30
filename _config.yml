@@ -1,3 +1,5 @@
-theme: jekyll-theme-cayman
-title: Welcome to Dongchen's homepage!
-description: Feel free to contact me
+title: Dongchen HE's Homepage
+logo: /image1.jpg
+description: "At Jeju Island, South Korea, Jan 2020 "
+google_analytics:
+theme: jekyll-theme-minimal
