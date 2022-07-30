@@ -1,74 +1,78 @@
 # Dongchen He
-- Contact: dc.he@smail.nju.edu.cn 
-- I am a junior majoring in Communication Engineering in Nanjing University, expected to graduate in 2023 and aiming for a PhD position for 2023 Fall.
+Undergraduate student (graduating 2023),  
+[Department of Electronic Science and Engineering](https://ese.nju.edu.cn/main.htm),  
+[Nanjing University](https://www.nju.edu.cn/main.htm), China  
+
+[LinkedIn](https://www.linkedin.cn/incareer/in/dongchen-he-b0b1b5228)
+Mail: dc.he@smail.nju.edu.cn, or
+      dche@uranus-research.com
+
+# Biography
+- Dongchen HE is a junior majoring in Communication Engineering and Computer Science in Nanjing University, expected to graduate in 2023 and aiming for a PhD position for 2023 Fall in NLP field.
 
 
-## CAMPUS EXPERIENCE
-1. Youth Volunteer Association (Aug. 2020 -- Aug. 2021)
-- President
-- Nanjing University
-- Work:
-  - Organized a number of voluntary activities,such as student engineers into the community service, visiting old professors and so on
-  - Planned and held volunteer service Festival
-  - Contacted a number of nursing homes and homes for the disabled as long term partner
-- Highlights: Developed my leadership, communication skills and organizational skills
-2. Student Work Office (Aug. 2020 -- Sept. 2021)
-- Assistant
-- Nanjing University
-- Work: 
-  - Assisted in dealing with the daily affairs of teachers and students 
+# Research Interests
+Deep Learning  
+Natural Language Processing
+Dialogue Summarization
+Information Retrival
+Bioinformatics
 
-## RESEARCH EXPERIENCE
-1. Offline Deployment of Task-oriented Dialogue System (Sep. 2021 -- Present)
-- Researcher
-- ICAIS Lab of Nanjing university
-- Work:
-  - Worked on the research of deploying the offline **dialogue system** to RPi instead of uploading user's data to cloud
-  - **Offline task-oriented** dialogue system can **protect user's privacy** and can be used in many specific areas, such as voice assistant siri
-- Advisor: Prof. Zhongfeng Wang
+# Publications
+[COLING-2022](https://coling2022.org/) 
 
-2. Natural Language Processing Summer Camp (July 2021 -- Aug. 2021)
-- Researcher
-- NLP Research Group of Nanjing university
-- Work:
-  - Worked on the research of **segmentation algorithm** in the field of **machine translation** and **domain adaptation**
-  - I was rewarded **the Best Performance Award** for my outstanding academic performance during the summer camp
-  - **Independently completed** the training and evaluation of the translation model
-  - Explored how to **improve the segmentation algorithm** to train the model to get the best performance on both source and target domain
-- Advisor: Prof. Shujian Huang
+[NIPS-2022](https://nips.cc/) 
 
-3. National college student innovation and Entrepreneurship Project (Oct. 2020 -- Present)
-- Nanjing university
-- Work:
-  - Worked on the research of network flow control system driven by **machine learning**
-  - Used data of each network node to train model, so that the model can **automatically choose** the route with the least possibility of congestion
-  - The project was identified as a national project and supported by funds
-- Advisor: Prof. Jian Wang
+# News  
+[June 2022] Joining Uranus Research as an intern working on quant research.  
 
-## ACHIEVEMENTS
-- The second prize of Jiangsu Province in the National College Students' Electronic Design Competition (Nov. 2021)
-- National Encouragement Scholarship of 2021 (Oct. 2021)
-- People's Scholarship (Sep. 2020)
-- National Encouragement Scholarship of 2020 (Oct. 2020)
-- Tang Zhongying Scholarship (Nov. 2020) 
+[May 2022] Our paper focusing on dialogue summarization has been submitted to [COLING-2022](https://coling2022.org/), waiting for good news. 
 
-## EDUCATION
-- Nanjing University (Sep. 2019 -- Present)
-  - Major: Bachelor of Communication Engineering
-  - Minor: Finance & Computer Science
-  - GPA: 4.33/5.00
-  - RANKING: TOP15% 
-  - Average score: 86.6/100 
+[May 2022] Our paper focusing on dataset of protein design has been submitted to [NIPS-2022](https://nips.cc/), waiting for good news.
 
-- University of Sheffield (June 2021 -- July 2021) 
-  - exchange student
+[Feb 2022] Joining AIH Lab in CUHK, working on RNA design and protein design using deep learning method under under supervision of [Prof. YU LI](https://liyu95.com/) and doctor candidate ZhiHang Hu.
 
-## SKILLS
-- Progamming Languages: Proficient in Python, C/C++, SQL
-- Tools: Fairseq, Pytorch, GitHub
-- Basic knowledge: Machine learning, Deep learning, NLP(seq2seq, lstm, transformer, BERT, BART, GPT)
+[Oct 2021] Joining NLP research group in ICAIS Lab in Nanjing University, working on dialogue summarization.
 
-## HOBBIES
-- Instruments: I like piano and guitar very much. Actually music has been part of my life. And i'm also very curious about some technologies like AI composer which combines music with artificial intelligence.
-- Musical: Hamilton,Dear Evan Hanson,Come from Away,Le rouge et le noir are some of my favorites.
-- Sports: running & swimming
+[Aug 2021] Joining the summer camp of NLP held by NanJing University, and being rewared the Best Performance Award for my outstanding academic performance during the summer camp.    
+
+# Education
+## Nanjing University
+B.Eng, Communication Engineering, Department of Electronic Science and Engineering,  
+B.Eng in minor, Computer Science, Department of Computer Science and Engineering
+Sep 2019 - Jul 2023, Nanjing, Jiangsu, China. 
+
+# Experience
+## Research Experience
+**RNA Structure Prediction and Its Inverse Problem, Feb. 2022 -- June 2022**
+Research Assistant, AIH Group of the Chinese University of Hong Kong
+- Worked on the the RNA structure prediction by using energy based model like score-based generative model proposed by Yang Song and then solve its inverse problem: RNA sequence design based on a fixed backbone structure
+- Our purpose is to firstly solve the problem of structure prediction, and then based on the work before, to tackle its inverse problem afterwards. 
+
+**Dialogue Summarization, Sep. 2021 -- May 2022**
+Research Assistant, ICAIS Lab of Nanjing university
+- Worked on the dialogue summarization and try to improve the faithfulness and accuracy of automatically generated summaries.
+- The paper has been under review of COLING-2022
+
+**Offline Deployment of Task-oriented Dialogue System, Sep. 2021 -- June 2022**
+Team Leader, ICAIS Lab of Nanjing university
+- Worked on the research of deploying the offline dialogue system to RPi instead of uploading user's data to cloud.
+- Offline task-oriented dialogue system can protect user's privacy and can be used in many specific areas, such as voice assistant siri.
+
+## Professional Experience
+### Uranus Research, private funding in Shanghai
+June 2022 - Aug 2022  
+Quant researcher, Summer Intern  
+
+# SKILLS
+Progamming Languages: Proficient in Python, C/C++, SQL
+Tools: Fairseq, Pytorch, GitHub
+Basic knowledge: Machine learning, Deep learning, NLP(seq2seq, lstm, transformer, BERT, BART, GPT)
+
+# HOBBIES
+Instruments: Piano and guitar. And I'm also very curious about some technologies like AI composer which combines music with artificial intelligence.
+Musical: Hamilton,Dear Evan Hanson,Come from Away,Le rouge et le noir are some of my favorites.
+Sports: running & swimming
+
+# Visitors
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=gvanrDP9UeoFohRR-9KCMLyeFR1K-b9nXsfpibiZvcM"></script>  
