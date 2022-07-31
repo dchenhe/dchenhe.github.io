@@ -70,14 +70,14 @@ Team Leader, ICAIS Lab of Nanjing university
 Quant researcher, Summer Intern  
 - Worked on alpha factor by using volume and price data.
 
-# SKILLS
+# Skills
 Progamming Languages: Python, C/C++, SQL 
 
 Tools: Fairseq, Pytorch, GitHub 
 
 Basic knowledge: Machine learning, Deep learning, NLP(seq2seq, lstm, transformer, BERT, BART, GPT) 
 
-# HOBBIES
+# Hobbies
 Instruments: Piano and guitar. And I'm also very curious about some technologies like AI composer which combines music with artificial intelligence. 
 
 Musical: Hamilton,Dear Evan Hanson,Come from Away,Le rouge et le noir are some of my favorites. 
