@@ -1,4 +1,4 @@
-# Dongchen He
+# Dongchen He (何东宸)
 Undergraduate student (graduating 2023),  
 [Department of Electronic Science and Engineering](https://ese.nju.edu.cn/main.htm),  
 [Nanjing University](https://www.nju.edu.cn/main.htm), China  
