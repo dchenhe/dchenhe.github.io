@@ -20,11 +20,14 @@ Dongchen HE is a junior majoring in Communication Engineering and Computer Scien
 - Bioinformatics 
 
 # Publications
-[COLING-2022](https://coling2022.org/): View Dialogue in 2D: A Two-stream Model in Time-speaker Perspective for Dialogue Summarization and Beyond (under review)
+[COLING-2022](https://coling2022.org/): View Dialogue in 2D: A Two-stream Model in Time-speaker Perspective for Dialogue Summarization and Beyond (accepted) 
+Authors: Keli Xie, **Dongchen He**, Jiaxin Zhuang, Siyuan Lu and Zhongfeng Wang
 
 [NIPS-2022](https://nips.cc/): PRIDE: A benchmark for structure-guided protein design evaluation (under review)
 
 # News  
+[Aug 2022] Our paper about dialogue summarization has been accepted by [COLING-2022](https://coling2022.org/). Congratulations!
+
 [June 2022] Joining Uranus Research as an intern working on quant research.  
 
 [May 2022] Our paper focusing on dialogue summarization has been submitted to [COLING-2022](https://coling2022.org/), waiting for good news. 
