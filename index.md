@@ -9,7 +9,7 @@ Mail: dc.he@smail.nju.edu.cn or
       dche@uranus-research.com
 
 # Biography
-Dongchen HE is a junior majoring in Communication Engineering and Computer Science in Nanjing University, expected to graduate in 2023 and aiming for a Ph.D. position for 2023 Fall in NLP field.
+Dongchen HE is now a fouth year undergraduate majoring in Communication Engineering and Computer Science in Nanjing University, and an incoming Ph.D. student in [CUHK](https://www.cuhk.edu.hk/english/). I'd like to collaborate with all kinds of people, please feel free to drop me an email.
 
 
 # Research Interests
@@ -27,6 +27,8 @@ Authors: Keli Xie, **Dongchen He**, Jiaxin Zhuang, Siyuan Lu and Zhongfeng Wang
 [NIPS-2022](https://nips.cc/): PRIDE: A benchmark for structure-guided protein design evaluation (under review)
 
 # News  
+[Nov 2022] I decide to pursue my Ph.D. degree in the department of Computer Science and Engineering of CUHK under the supervision of [Prof. Li Yu](https://liyu95.com/). 
+
 [Aug 2022] Our paper about dialogue summarization has been accepted by [COLING-2022](https://coling2022.org/). Congratulations!
 
 [June 2022] Joining Uranus Research as an intern working on quant research.  
@@ -41,14 +43,15 @@ Authors: Keli Xie, **Dongchen He**, Jiaxin Zhuang, Siyuan Lu and Zhongfeng Wang
 
 [Aug 2021] Joining the summer camp of NLP held by NanJing University, and being rewared the Best Performance Award for my outstanding academic performance during the summer camp.    
 
-# Education
-## Nanjing University
-B.Eng, Communication Engineering, Department of Electronic Science and Engineering,  
-B.Eng in minor, Computer Science, Department of Computer Science and Engineering 
-
-Sep 2019 - Jul 2023, Nanjing, Jiangsu, China. 
-
 # Experience
+
+## Professional Experience
+### Uranus Research, private funding in Shanghai, June 2022 - Aug 2022  
+
+Quant researcher, Summer Intern  
+- Worked on digging alpha factor by using volume and price data.
+- Huge thanks to Dr. SUN Bo, [Dr. GONG Peng](https://www.linkedin.com/in/peng-gong-13935344/) for their generous help and advice！
+
 ## Research Experience
 **RNA Structure Prediction and Its Inverse Problem, Feb. 2022 -- June 2022** 
 
@@ -68,11 +71,13 @@ Team Leader, ICAIS Lab of Nanjing university
 - Worked on the research of deploying the offline dialogue system to RPi instead of uploading user's data to cloud.
 - Offline task-oriented dialogue system can protect user's privacy and can be used in many specific areas, such as voice assistant siri.
 
-## Professional Experience
-### Uranus Research, private funding in Shanghai, June 2022 - Aug 2022  
+# Education
+## Nanjing University
+B.Eng, Communication Engineering, Department of Electronic Science and Engineering,  
+B.Eng in minor, Computer Science, Department of Computer Science and Engineering 
 
-Quant researcher, Summer Intern  
-- Worked on alpha factor by using volume and price data.
+Sep 2019 - Jul 2023, Nanjing, Jiangsu, China. 
+
 
 # Skills
 Progamming Languages: Python, C/C++, SQL 
