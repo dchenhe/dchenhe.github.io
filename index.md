@@ -6,7 +6,7 @@ Undergraduate student (graduating 2023),
 [LinkedIn](https://www.linkedin.cn/incareer/in/dongchen-he-b0b1b5228) 
 
 Mail: dc.he@smail.nju.edu.cn or
-      dche@uranus-research.com
+      dc23.he@gmail.com
 
 # Biography
 Dongchen HE is now a fouth year undergraduate majoring in Communication Engineering and Computer Science in Nanjing University, and an incoming Ph.D. student in [CUHK](https://www.cuhk.edu.hk/english/). I'd like to collaborate with all kinds of people, please feel free to drop me an email.
