@@ -27,7 +27,7 @@ Authors: Keli Xie, **Dongchen He**, Jiaxin Zhuang, Siyuan Lu and Zhongfeng Wang
 [NIPS-2022](https://nips.cc/): PRIDE: A benchmark for structure-guided protein design evaluation (under review)
 
 # Patents
-[Chinese invention patent](https://zljs.wx.jiangdu.gov.cn/patent/view.html?patid=CN202210898773.0&sc=&q=%E4%BD%95%E4%B8%9C%E5%AE%B8&fq=&sort=&sortField=&page=1&rows=10#1/CN202210898773.0/detail/abst) A dialogue text processing method and device
+[Chinese invention patent](https://zljs.wx.jiangdu.gov.cn/patent/view.html?patid=CN202210898773.0&sc=&q=%E4%BD%95%E4%B8%9C%E5%AE%B8&fq=&sort=&sortField=&page=1&rows=10#1/CN202210898773.0/detail/abst): A dialogue text processing method and device
 
 Inventors: Zhongfeng Wang, Keli Xie, **Dongchen He**, Jiaxin Zhuang, Siyuan Lu
 
