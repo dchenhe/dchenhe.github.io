@@ -47,11 +47,11 @@ Inventors: Zhongfeng Wang, Keli Xie, **Dongchen He**, Jiaxin Zhuang, Siyuan Lu
 # Experience
 
 ## Professional Experience
-### Uranus Research, private funding in Shanghai, June 2022 - Aug 2022  
+**Uranus Research, private funding in Shanghai, June 2022 - Aug 2022**  
 
 Quant researcher, Summer Intern  
 - Worked on digging alpha factor by using volume and price data.
-- Huge thanks to Dr. SUN Bo, [Dr. GONG Peng](https://www.linkedin.com/in/peng-gong-13935344/) for their generous help and advice！
+- Huge thanks to Dr. SUN Bo(CEO), Dr. GONG Peng for their generous help and advice！
 
 ## Research Experience
 
