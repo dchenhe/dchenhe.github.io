@@ -13,18 +13,16 @@ Dongchen HE is now a fouth year undergraduate majoring in Communication Engineer
 
 
 # Research Interests
-- Deep Learning  
-- Natural Language Processing 
-- Dialogue Summarization 
-- Information Retrival 
+- AI4Healthcare
 - Bioinformatics 
+- Natural Language Processing 
+
 
 # Publications
 [COLING-2022](https://coling2022.org/): View Dialogue in 2D: A Two-stream Model in Time-speaker Perspective for Dialogue Summarization and Beyond (accepted) 
 
 Authors: Keli Xie, **Dongchen He**, Jiaxin Zhuang, Siyuan Lu and Zhongfeng Wang
 
-[NIPS-2022](https://nips.cc/): PRIDE: A benchmark for structure-guided protein design evaluation (under review)
 
 # Patents
 [Chinese invention patent](https://zljs.wx.jiangdu.gov.cn/patent/view.html?patid=CN202210898773.0&sc=&q=%E4%BD%95%E4%B8%9C%E5%AE%B8&fq=&sort=&sortField=&page=1&rows=10#1/CN202210898773.0/detail/abst): A dialogue text processing method and device
@@ -40,11 +38,9 @@ Inventors: Zhongfeng Wang, Keli Xie, **Dongchen He**, Jiaxin Zhuang, Siyuan Lu
 
 [May 2022] Our paper focusing on dialogue summarization has been submitted to [COLING-2022](https://coling2022.org/), waiting for good news. 
 
-[May 2022] Our paper focusing on dataset of protein design has been submitted to [NIPS-2022](https://nips.cc/), waiting for good news.
+[Feb 2022] Joining AIH Lab in CUHK, working on bioinformatics under the supervision of [Prof. LI Yu](https://liyu95.com/) .
 
-[Feb 2022] Joining AIH Lab in CUHK, working on RNA design and protein design using deep learning method under supervision of [Prof. LI Yu](https://liyu95.com/) and doctor candidate ZhiHang Hu.
-
-[Oct 2021] Joining NLP research group in ICAIS Lab in Nanjing University, working on dialogue summarization.
+[Oct 2021] Joining NLP research group in ICAIS Lab in Nanjing University, working on dialogue summarization under the supervision of IEEE Fellow [Prof. WANG Zhongfeng](https://scholar.google.com/citations?user=faC-qekAAAAJ&hl=zh-CN&oi=ao).
 
 [Aug 2021] Joining the summer camp of NLP held by NanJing University, and being rewared the Best Performance Award for my outstanding academic performance during the summer camp.    
 
@@ -58,11 +54,6 @@ Quant researcher, Summer Intern
 - Huge thanks to Dr. SUN Bo, [Dr. GONG Peng](https://www.linkedin.com/in/peng-gong-13935344/) for their generous help and advice！
 
 ## Research Experience
-**RNA Structure Prediction and Its Inverse Problem, Feb. 2022 -- June 2022** 
-
-Research Assistant, AIH Group of the Chinese University of Hong Kong 
-- Worked on the the RNA structure prediction by using energy based model like score-based generative model proposed by Yang Song and then solve its inverse problem: RNA sequence design based on a fixed backbone structure
-- Our purpose is to firstly solve the problem of structure prediction, and then based on the work before, to tackle its inverse problem afterwards. 
 
 **Dialogue Summarization, Sep. 2021 -- May 2022** 
 
