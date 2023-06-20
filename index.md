@@ -9,7 +9,8 @@ Mail: dc.he@smail.nju.edu.cn or
       dc23.he@gmail.com
 
 # Biography
-Dongchen HE is now a fouth year undergraduate majoring in Communication Engineering and Computer Science in Nanjing University, and an incoming Ph.D. student in CUHK under the supervision of Prof. LI Yu. For any collaboration, please feel free to drop me an email.
+Dongchen HE is now a fouth year undergraduate majoring in Communication Engineering and Computer Science in Nanjing University, and an incoming Ph.D. student in CUHK under the supervision of Prof. LI Yu. 
+ For any collaboration, please feel free to drop me an email.
 
 
 # Research Interests
