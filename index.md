@@ -22,11 +22,12 @@ Dongchen HE is now a 3rd year Ph.D. candidate majoring in Computer Science in CU
 # Publications
 [Nature Computational Science]: Deep generative design of RNA aptamers using structural predictions
 
-Authors: F Wong*, **D He***, A Krishnan, L Hong, A Wang, J Wang, Z Hu, S Omori, A Li, J Rao, Q Yu, W Jin, T Zhang, K Ilia, J Chen, S Zheng, I King, Y Li#, J Collins#
+Authors: F Wong*, **D He***, A Krishnan, L Hong, A Wang, J Wang, Z Hu, S Omori, A Li, J Rao, Q Yu, W Jin, T Zhang, K Ilia, J Chen, S Zheng, I King, Y Li#, J Collins# 
 
 [ISMB-2024]:RiboDiffusion: tertiary structure-based RNA inverse folding with generative diffusion models
 
-Authors: Han Huang , Ziqian Lin , **Dongchen He** , Liang Hong , Yu Li
+Authors: Han Huang , Ziqian Lin , **Dongchen He** , Liang Hong , Yu Li 
+
 [COLING-2022](https://coling2022.org/): View Dialogue in 2D: A Two-stream Model in Time-speaker Perspective for Dialogue Summarization and Beyond
 
 Authors: Keli Xie, **Dongchen He**, Jiaxin Zhuang, Siyuan Lu and Zhongfeng Wang
