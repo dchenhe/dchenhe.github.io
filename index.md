@@ -20,13 +20,13 @@ Dongchen HE is now a 3rd year Ph.D. candidate majoring in Computer Science in CU
 
 
 # Publications
-[Nature Computational Science]: Deep generative design of RNA aptamers using structural predictions
+[Nature Computational Science](https://www.nature.com/articles/s43588-024-00720-6): Deep generative design of RNA aptamers using structural predictions
 
-Authors: F Wong*, **D He***, A Krishnan, L Hong, A Wang, J Wang, Z Hu, S Omori, A Li, J Rao, Q Yu, W Jin, T Zhang, K Ilia, J Chen, S Zheng, I King, Y Li#, J Collins# 
+Authors: {Felix Wong}^*, **{Dongchen He}^{*}**, Aarti Krishnan, Liang Hong, Alexander Z. Wang, Jiuming Wang, Zhihang Hu, Satotaka Omori, Alicia Li, Jiahua Rao, Qinze Yu, Wengong Jin, Tianqing Zhang, Katherine Ilia, Jack X. Chen, Shuangjia Zheng, Irwin King, {Yu Li}^#, {James J. Collins}^#
 
-[ISMB-2024]:RiboDiffusion: tertiary structure-based RNA inverse folding with generative diffusion models
+[ISMB-2024](https://academic.oup.com/bioinformatics/article/40/Supplement_1/i347/7700903):RiboDiffusion: tertiary structure-based RNA inverse folding with generative diffusion models
 
-Authors: Han Huang , Ziqian Lin , **Dongchen He** , Liang Hong , Yu Li 
+Authors: {Han Huang}^* , {Ziqian Lin}^* , **Dongchen He** , Liang Hong , {Yu Li}^#
 
 [COLING-2022](https://coling2022.org/): View Dialogue in 2D: A Two-stream Model in Time-speaker Perspective for Dialogue Summarization and Beyond
 
@@ -40,7 +40,9 @@ Inventors: Zhongfeng Wang, Keli Xie, **Dongchen He**, Jiaxin Zhuang, Siyuan Lu
 
 # News  
 [Nov 2024] RhoDesign is published by Nature Computational Science [IF = 18.6]. Many thanks for all collaborators!
+
 [June 2024] RiboDiffusion is accepted by ISMB
+
 [Nov 2022] I decide to pursue my Ph.D. degree in the department of Computer Science and Engineering of CUHK under the supervision of [Prof. LI Yu](https://liyu95.com/). 
 
 [Aug 2022] Our paper about dialogue summarization has been accepted by [COLING-2022](https://coling2022.org/). Congratulations!
