@@ -1,15 +1,15 @@
-# Dongchen He (何东宸)
-Undergraduate student (graduating 2023),  
-[Department of Electronic Science and Engineering](https://ese.nju.edu.cn/main.htm),  
-[Nanjing University](https://www.nju.edu.cn/main.htm), China  
+# Dongchen He
+Ph.D. Candidate,  
+[Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk/),  
+[The Chinese University of Hong Kong](https://www.nju.edu.cn/main.htm), Hong Kong,China  
 
 [LinkedIn](https://www.linkedin.cn/incareer/in/dongchen-he-b0b1b5228) 
 
-Mail: dc.he@smail.nju.edu.cn or
+Mail: dche@link.cuhk.edu.hk or
       dc23.he@gmail.com
 
 # Biography
-Dongchen HE is now a fouth year undergraduate majoring in Communication Engineering and Computer Science in Nanjing University, and an incoming Ph.D. student in CUHK under the supervision of Prof. LI Yu. 
+Dongchen HE is now a 3rd year Ph.D. candidate majoring in Computer Science in CUHK under the supervision of Prof. LI Yu. 
  For any collaboration, please feel free to drop me an email.
 
 
@@ -20,7 +20,14 @@ Dongchen HE is now a fouth year undergraduate majoring in Communication Engineer
 
 
 # Publications
-[COLING-2022](https://coling2022.org/): View Dialogue in 2D: A Two-stream Model in Time-speaker Perspective for Dialogue Summarization and Beyond (accepted) 
+[Nature Computational Science]: Deep generative design of RNA aptamers using structural predictions
+
+Authors: F Wong*, **D He***, A Krishnan, L Hong, A Wang, J Wang, Z Hu, S Omori, A Li, J Rao, Q Yu, W Jin, T Zhang, K Ilia, J Chen, S Zheng, I King, Y Li#, J Collins#
+
+[ISMB-2024]:RiboDiffusion: tertiary structure-based RNA inverse folding with generative diffusion models
+
+Authors: Han Huang , Ziqian Lin , **Dongchen He** , Liang Hong , Yu Li
+[COLING-2022](https://coling2022.org/): View Dialogue in 2D: A Two-stream Model in Time-speaker Perspective for Dialogue Summarization and Beyond
 
 Authors: Keli Xie, **Dongchen He**, Jiaxin Zhuang, Siyuan Lu and Zhongfeng Wang
 
@@ -31,6 +38,8 @@ Authors: Keli Xie, **Dongchen He**, Jiaxin Zhuang, Siyuan Lu and Zhongfeng Wang
 Inventors: Zhongfeng Wang, Keli Xie, **Dongchen He**, Jiaxin Zhuang, Siyuan Lu
 
 # News  
+[Nov 2024] RhoDesign is published by Nature Computational Science [IF = 18.6]. Many thanks for all collaborators!
+[June 2024] RiboDiffusion is accepted by ISMB
 [Nov 2022] I decide to pursue my Ph.D. degree in the department of Computer Science and Engineering of CUHK under the supervision of [Prof. LI Yu](https://liyu95.com/). 
 
 [Aug 2022] Our paper about dialogue summarization has been accepted by [COLING-2022](https://coling2022.org/). Congratulations!
