@@ -22,7 +22,7 @@ Dongchen HE is now a 3rd year Ph.D. candidate majoring in Computer Science in CU
 # Publications (* denotes equal contribution, # denotes corresponding author)
 [Nature Computational Science](https://www.nature.com/articles/s43588-024-00720-6): Deep generative design of RNA aptamers using structural predictions
 
-Authors: Felix Wong*, **Dongchen He\***, Aarti Krishnan, Liang Hong, Alexander Z. Wang, Jiuming Wang, Zhihang Hu, Satotaka Omori, Alicia Li, Jiahua Rao, Qinze Yu, Wengong Jin, Tianqing Zhang, Katherine Ilia, Jack X. Chen, Shuangjia Zheng, Irwin King, Yu Li#, James J. Collins^#
+Authors: Felix Wong*, **Dongchen He\***, Aarti Krishnan, Liang Hong, Alexander Z. Wang, Jiuming Wang, Zhihang Hu, Satotaka Omori, Alicia Li, Jiahua Rao, Qinze Yu, Wengong Jin, Tianqing Zhang, Katherine Ilia, Jack X. Chen, Shuangjia Zheng, Irwin King, Yu Li#, James J. Collins#
 
 [ISMB-2024/Bioinformatics](https://academic.oup.com/bioinformatics/article/40/Supplement_1/i347/7700903):RiboDiffusion: tertiary structure-based RNA inverse folding with generative diffusion models
 
